@@ -11,5 +11,6 @@ public class GIT_REKT extends AppCompatActivity {
         setContentView(R.layout.activity_git__rekt);
         //Liam
         //WOW
+        //PogChamp
     }
 }
