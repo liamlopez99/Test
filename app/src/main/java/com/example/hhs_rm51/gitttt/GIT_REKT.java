@@ -10,6 +10,6 @@ public class GIT_REKT extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_git__rekt);
         //Liam
-        //WOWs
+        //WOW
     }
 }
